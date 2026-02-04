@@ -10979,3 +10979,9 @@ video.bg-video {
   background-repeat: no-repeat;
   z-index: -1;
 }
+
+.contact-email {
+  color: #2e5656;
+  font-weight: 700;
+}
+
